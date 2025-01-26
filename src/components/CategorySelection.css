@@ -1,0 +1,25 @@
+.category-selection {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 30px;
+  }
+  
+  .category-button {
+    padding: 12px 24px;
+    background-color: #6b7280;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .category-button:hover {
+    background-color: #4b5563;
+  }
+  
+  .category-button.active {
+    background-color: #2563eb;
+  }
+  
