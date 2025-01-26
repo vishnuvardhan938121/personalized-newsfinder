@@ -1,3 +1,6 @@
+#This is a simple React project which is used to fetch data from news api based on different tastes of the user .
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
